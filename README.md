@@ -19,7 +19,7 @@ bash install_xubuntu_apps.sh
 ##2. install_xubuntu_apps_v2.sh
 Este é o script atualizado e aprimorado. Ele inclui todos os programas do primeiro script, mas também instala o Python 3, bibliotecas populares como NumPy, OpenCV, Matplotlib, entre outras, para suportar o desenvolvimento em robótica, aprendizado de máquina e simulação de circuitos.
 
-###Como usar:
+### Como usar:
 - Use este script quando for necessário um ambiente mais robusto para robótica, com bibliotecas de aprendizado de máquina, simulação e manipulação de dados.
 - Ideal para máquinas com mais recursos ou quando precisar de um ambiente mais completo para programação e robótica com crianças.
 - Este script também inclui pacotes adicionais para simulação de robótica, como o Gazebo, e ferramentas como o Jupyter Notebook para ensino interativo.
@@ -39,14 +39,14 @@ Caso tenha mais recursos ou precise de um ambiente mais completo para robótica,
 Ambos os scripts são projetados para Xubuntu, um sistema leve baseado no Ubuntu, que é adequado para máquinas com recursos limitados, mas pode ser adaptado para outras distribuições baseadas no Ubuntu.
 
 Ferramentas Instaladas pelos Scripts:
-###Script install_xubuntu_apps.sh
+### Script install_xubuntu_apps.sh
 - Navegadores: Google Chrome, Firefox
 - Ferramentas de Programação: Arduino IDE, Visual Studio Code
 - IDE Leve: Geany, GNOME Builder
 - Ferramentas de Produtividade: LibreOffice, GIMP
 - Ferramentas de Controle Remoto: TeamViewer, AnyDesk
 - Simulação de Robótica: Ferramentas básicas de robótica, como ROS Noetic
-###Script install_xubuntu_apps_v2.sh
+### Script install_xubuntu_apps_v2.sh
 - Todas as ferramentas do script anterior.
 - Python 3 e Bibliotecas: NumPy, OpenCV, Matplotlib, Pandas, TensorFlow, PySerial
 - Simulação Avançada: Gazebo
