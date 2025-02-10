@@ -27,10 +27,11 @@ wget https://raw.githubusercontent.com/Math-eus-Alexandre/Escola-Augusta-Knorrin
 #### ▶️ Executar o Script:
 Depois de baixar, torne o script executável e rode-o:
 
-bash
-Copy
+````bash
 chmod +x install_xubuntu_apps.sh
 bash install_xubuntu_apps.sh
+````
+
 ### 2. 🤖 Baixar e Executar install_xubuntu_apps_robotica.sh
 Este script é a versão atualizada e aprimorada. Ele inclui todos os programas do primeiro script, além de instalar Python 3, bibliotecas populares como NumPy, OpenCV, Matplotlib, entre outras, para suportar o desenvolvimento em robótica, aprendizado de máquina e simulação de circuitos.
 
@@ -43,7 +44,6 @@ Ideal para máquinas com mais recursos ou quando precisar de um ambiente mais co
 No terminal, execute o seguinte comando para baixar o script:
 
 ````bash
-Copy
 wget https://raw.githubusercontent.com/Math-eus-Alexandre/Escola-Augusta-Knorring/main/install_xubuntu_apps_robotica.sh
 ````
 
