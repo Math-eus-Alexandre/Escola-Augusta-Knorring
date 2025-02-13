@@ -51,7 +51,6 @@ wget https://raw.githubusercontent.com/Math-eus-Alexandre/Escola-Augusta-Knorrin
 Depois de baixar, torne o script executável e rode-o:
 
 ````bash
-Copy
 chmod +x install_xubuntu_apps_robotica.sh
 bash install_xubuntu_apps_robotica.sh
 ````
